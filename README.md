@@ -1,7 +1,7 @@
 # Simula UiB Conference Poster
-Simula UiB conference poster LaTeX template.
+Simula UiB conference poster LaTeX template from https://github.com/severinson/simula-uib-conference-poster
 
-![image](https://github.com/isakhammer/uib-conference-poster/assets/43385748/fcb82bf5-830b-4fdc-9dec-ce5f6cb6dab4)
+![image](https://github.com/isakhammer/uib-conference-poster/assets/43385748/49b7be5d-571a-4d9f-ab1a-f62f95f76666)
 
 
 # Standard UiB Conference Poster
