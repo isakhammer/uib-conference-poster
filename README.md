@@ -5,5 +5,5 @@ Simula UiB conference poster LaTeX template from https://github.com/severinson/s
 
 
 # Standard UiB Conference Poster
-UiB conference poster LaTeX template.
+UiB conference poster LaTeX template. Remark: It is *very* hard to use. I did not manage to change fra 4 columns to 2 columns for instance.
 ![image](https://github.com/isakhammer/uib-conference-poster/assets/43385748/5568a407-5b0b-4291-87a2-ab367b4cd279)
